@@ -17,3 +17,16 @@
  ```bash
 cd Football-highlights  
 ```
+3. Install dependencies:
+```bash
+npm install  
+```
+4. Run the development server:
+```bash
+npm run dev  
+```
+5. Open the app in your browser at:
+```bash
+http://localhost:3000
+```
+
